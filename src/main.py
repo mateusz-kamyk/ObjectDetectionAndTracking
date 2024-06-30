@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import cv2
+import argparse
 
 def mouse_detection_and_tracking(object_photo, camera):
 
